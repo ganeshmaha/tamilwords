@@ -10,7 +10,7 @@
       }
 	],
 	pagination: {
-		limit:20
+		limit:10
 	},
 	server: {
     	url: 'manavai_words_list.json',
